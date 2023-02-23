@@ -24,6 +24,14 @@ $y = 19;
 print "<br /><br />" .$x - $y;
 print "Konfliktus lesz ...."
 
+// Osztás
+//------------------
+
+$egyik= 25;
+$masik = 5;
+
+print ($egyik / $masik) . "<br /><br />" .;
+
 
 
 // Itt a vege
