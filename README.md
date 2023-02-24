@@ -6,6 +6,7 @@ A Webtanár **oktatóvideója** alapján készült ez a *formázott* szöveg
 - lista elem
 - lista elem
 - lista elem
-- 1. elem
-- 2. elem
-- 3. elem
+
+1 elem
+2 elem
+3 elem
